@@ -1,0 +1,22 @@
+{
+  "name": "QYL",
+  "author": "QYL",
+  "url": "https://github.com/QYLexpired/QYL-Icons-Colorful",
+  "version": "1.0",
+  "minAppVersion": "3.0.0",
+  "displayName": {
+    "default": "QYL Colorful Icons",
+    "zh_CN": "QYL多彩图标"
+  },
+  "description": {
+    "default": "Flat Style Colorful Icons",
+    "zh_CN": "扁平化风格的多彩图标"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "keywords": [
+    "QYL"
+  ]
+}
